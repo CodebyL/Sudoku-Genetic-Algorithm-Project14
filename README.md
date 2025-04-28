@@ -1,6 +1,5 @@
-okay send the readme file using project 16 as a template:
 # 🎯 Sudoku Genetic Algorithm Solver
-**Project 14 — C++ Implementation**
+**Project 14**
 
 **Course:** **420 Artificial Intelligence** 
 **Date:** **4/28/25**
@@ -29,11 +28,15 @@ The goal is to reduce conflicts (duplicate numbers) in columns and 3x3 boxes unt
 ---
 
 ## 🚀 **How to Compile and Run**
+1. Compile code:
 ```bash
 g++ -std=c++11 main.cpp SudokuGA.cpp -o SudokuSolver
+```
+2. Run the program:
+```bash
 ./SudokuSolver
 ```
-
+3. Test the program! (make sure you save, compile code, then run for every test changed).
 ---
 
 ## 🧪 **Test Runs**
